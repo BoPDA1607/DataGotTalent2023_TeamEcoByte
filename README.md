@@ -16,8 +16,8 @@ pip install notebook
 1. **Clone the Repository**: If the notebook is hosted in a version control system such as GitHub, provide instructions to clone the repository. For example:
 
 ```bash
-git clone https://github.com/username/repo-name
-cd repo-name
+git clone https://github.com/BoPDA1607/DataGotTalent2023_TeamEcoByte.git
+cd DataGotTalent2023_TeamEcoByte
 ```
 
 2. **Virtual Environment** (optional but recommended): Create a virtual environment to isolate the package dependencies locally:
